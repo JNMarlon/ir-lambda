@@ -8,6 +8,9 @@
     ]
   },
   "devDependencies": {
+    "@aws-sdk/types": "^3.272.0",
+    "@types/aws-lambda": "^8.10.111",
+    "@types/node": "^18.14.6",
     "@typescript-eslint/eslint-plugin": "latest",
     "@typescript-eslint/parser": "latest",
     "eslint": "^8.35.0",
@@ -15,5 +18,11 @@
     "lint-staged": "^13.1.2",
     "prettier": "^2.8.4",
     "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@types/sharp": "^0.31.1",
+    "aws-lambda": "^1.0.7",
+    "aws-sdk": "^2.1331.0",
+    "sharp": "^0.31.3"
   }
 }

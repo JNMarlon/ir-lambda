@@ -1,1 +1,1 @@
-### lint & prettier boilerplate code template
+### image resizing lambda
